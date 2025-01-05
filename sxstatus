@@ -1,0 +1,26 @@
+#!/bin/bash
+
+export PATH="${PATH}:$HOME/.config/sxstatus/modules"
+
+while true; do
+	#arrow (black & white)
+        #xsetroot -name " ^b#131419^^c#282a2e^^c#BBBBBB^^b#282a2e^$(mpdstat_sx) ^b#282a2e^^c#131419^^c#BBBBBB^^b#131419^$(memory_sx)^b#131419^^c#282a2e^^b#282a2e^^c#131419^^c#BBBBBB^^b#131419^$(battery_sx) ^b#131419^^c#282a2e^^c#BBBBBB^^b#282a2e^$(volume_sx) ^b#282a2e^^c#131419^^c#BBBBBB^^b#131419^$(clock_sx)"
+	
+	#arrow
+        #xsetroot -name " ^b#131419^^c#21232B^^c#2AA198^^b#21232B^$(mpdstat_sx) ^b#21232B^^c#131419^^c#859900^^b#131419^$(wifi_sx)^b#131419^^c#21232B^^c#CB4B16^^b#21232B^$(temp_sx)^b#21232B^^c#131419^^c#268BD2^^b#131419^$(memory_sx)^b#131419^^c#21232B^^b#21232B^^c#131419^^c#D33682^^b#131419^$(battery_sx) ^b#131419^^c#21232B^^c#B58900^^b#21232B^$(volume_sx) ^b#21232B^^c#131419^^c#BBBBBB^^b#131419^$(clock_sx)"	
+
+	#radius
+        #xsetroot -name " ^b#131419^^c#21232B^^c#2AA198^^b#21232B^$(mpdstat_sx) ^b#21232B^^c#131419^^c#859900^^b#131419^$(wifi_sx)^b#131419^^c#21232B^^c#CB4B16^^b#21232B^$(temp_sx)^b#21232B^^c#131419^^c#268BD2^^b#131419^$(memory_sx)^b#131419^^c#21232B^^b#21232B^^c#131419^^c#D33682^^b#131419^$(battery_sx) ^b#131419^^c#21232B^^c#B58900^^b#21232B^$(volume_sx) ^b#21232B^^c#131419^^c#BBBBBB^^b#131419^$(clock_sx)"	
+
+	#fire
+        #xsetroot -name " ^b#131419^^c#73291A^ ^c#2AA198^^b#73291A^$(mpdstat_sx) ^b#73291A^^c#131419^ ^c#859900^^b#131419^$(wifi_sx)^b#131419^^c#73291A^ ^c#CB4B16^^b#73291A^$(temp_sx)^b#73291A^^c#131419^ ^c#268BD2^^b#131419^$(memory_sx)^b#131419^^c#73291A^ ^b#73291A^^c#131419^ ^c#D33682^^b#131419^$(battery_sx) ^b#131419^^c#73291A^ ^c#B58900^^b#73291A^$(volume_sx) ^b#73291A^^c#131419^ ^c#BBBBBB^^b#131419^$(clock_sx)"	
+
+	#winds
+        #xsetroot -name " ^b#131419^^c#92A7B8^ ^c#2AA198^^b#92A7B8^$(mpdstat_sx) ^b#92A7B8^^c#131419^ ^c#859900^^b#131419^$(wifi_sx)^b#131419^^c#92A7B8^ ^c#CB4B16^^b#92A7B8^$(temp_sx)^b#92A7B8^^c#131419^ ^c#268BD2^^b#131419^$(memory_sx)^b#131419^^c#92A7B8^ ^b#92A7B8^^c#131419^ ^c#D33682^^b#131419^$(battery_sx) ^b#131419^^c#92A7B8^ ^c#B58900^^b#92A7B8^$(volume_sx) ^b#92A7B8^^c#131419^ ^c#BBBBBB^^b#131419^$(clock_sx)"	
+
+	#cuts
+        xsetroot -name " ^b#131419^^c#21232B^^c#2AA198^^b#21232B^$(mpdstat_sx) ^b#21232B^^c#131419^^c#859900^^b#131419^$(wifi_sx)^b#131419^^c#21232B^^c#CB4B16^^b#21232B^$(temp_sx)^b#21232B^^c#131419^^c#268BD2^^b#131419^$(memory_sx)^b#131419^^c#21232B^^b#21232B^^c#131419^^c#D33682^^b#131419^$(battery_sx) ^b#131419^^c#21232B^^c#B58900^^b#21232B^$(volume_sx) ^b#21232B^^c#131419^^c#BBBBBB^^b#131419^$(clock_sx)"	
+
+
+sleep 2
+done
