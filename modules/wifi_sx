@@ -1,0 +1,12 @@
+#!/bin/bash
+
+Icon=" "
+
+Name=$(nmcli dev status | awk NR==2'{print $4}')
+Status=$(nmcli dev status | awk NR==2'{print $3}')
+
+if [ "$Status" = "connected" ] ; then
+	echo " $Icon $Name"
+else
+	echo " $Icon -"
+fi
