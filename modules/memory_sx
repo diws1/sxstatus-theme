@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#Icon="Mem:"
 Icon=" "
 
 Memory=$(free -h | awk NR==2'{print$3}')
