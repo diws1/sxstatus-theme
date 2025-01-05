@@ -1,0 +1,1 @@
+# sxstatus-theme
