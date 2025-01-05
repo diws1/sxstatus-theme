@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#date '+%a %b %d %Y %r'
 Icon1=""
 Icon2=" "
 date=$(date '+%a %b %d')
