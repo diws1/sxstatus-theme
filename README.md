@@ -22,20 +22,20 @@ static const char *fonts[]  = { "Liberation Mono:size=9", "LiterationMono Nerd F
 ```
 
 ## preview
-arrow bw\
+<b>arrow bw</b>\
 ![My Image](https://github.com/diws1/sxstatus-theme/blob/main/screenshot/sx_arrow_bw.png)
 
-arrow\
+<b>arrow</b>\
 ![My Image](https://github.com/diws1/sxstatus-theme/blob/main/screenshot/sx_arrow.png)
 
-cuts\
+<b>cuts</b>\
 ![My Image](https://github.com/diws1/sxstatus-theme/blob/main/screenshot/sx_cuts.png)
 
-fire\
+<b>fire</b>\
 ![My Image](https://github.com/diws1/sxstatus-theme/blob/main/screenshot/sx_fire.png)
 
-radius\
+<b>radius</b>\
 ![My Image](https://github.com/diws1/sxstatus-theme/blob/main/screenshot/sx_radius.png)
 
-winds\
+<b>winds</b>\
 ![My Image](https://github.com/diws1/sxstatus-theme/blob/main/screenshot/sx_winds.png)
