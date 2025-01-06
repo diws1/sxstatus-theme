@@ -2,7 +2,7 @@
 
 ## Pre-installation
 - To use this theme, you need to add <b>status2d</b> patch on your <b>dwm</b> source code. 
-- You need to install nerd font for the icons, and add nerd font on your dwm config file, for example:
+- You need to install <b>nerd font</b> for the icons, and add nerd font on your <b>dwm</b> config file, for example:
 ```
 static const char *fonts[]  = { "Liberation Mono:size=9", "LiterationMono Nerd Font:size=10" };
 ```
