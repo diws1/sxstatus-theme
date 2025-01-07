@@ -3,19 +3,19 @@
 <img align="right" src="https://github.com/diws1/sxstatus-theme/blob/main/screenshot/sx_arrow_bw.png" alt="image" />
 
 <b>arrow</b>\
-![My Image](https://github.com/diws1/sxstatus-theme/blob/main/screenshot/sx_arrow.png)
+<img align="right" src="https://github.com/diws1/sxstatus-theme/blob/main/screenshot/sx_arrow.png" alt="image" />
 
 <b>cuts</b>\
-![My Image](https://github.com/diws1/sxstatus-theme/blob/main/screenshot/sx_cuts.png)
+<img align="right" src="https://github.com/diws1/sxstatus-theme/blob/main/screenshot/sx_cuts.png" alt="image" />
 
 <b>fire</b>\
-![My Image](https://github.com/diws1/sxstatus-theme/blob/main/screenshot/sx_fire.png)
+<img align="right" src="https://github.com/diws1/sxstatus-theme/blob/main/screenshot/sx_fire.png" alt="image" />
 
 <b>radius</b>\
-![My Image](https://github.com/diws1/sxstatus-theme/blob/main/screenshot/sx_radius.png)
+<img align="right" src="https://github.com/diws1/sxstatus-theme/blob/main/screenshot/sx_radius.png" alt="image" />
 
 <b>winds</b>\
-![My Image](https://github.com/diws1/sxstatus-theme/blob/main/screenshot/sx_winds.png)
+<img align="right" src="https://github.com/diws1/sxstatus-theme/blob/main/screenshot/sx_winds.png" alt="image" />
 
 
 ## Pre-installation
