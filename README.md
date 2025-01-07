@@ -1,6 +1,6 @@
 # sxstatus-theme
 <b>arrow bw</b>\
-<img align="right">![My Image](https://github.com/diws1/sxstatus-theme/blob/main/screenshot/sx_arrow_bw.png)>
+<img align="right">![My Image](https://github.com/diws1/sxstatus-theme/blob/main/screenshot/sx_arrow_bw.png) />
 
 <b>arrow</b>\
 ![My Image](https://github.com/diws1/sxstatus-theme/blob/main/screenshot/sx_arrow.png)
